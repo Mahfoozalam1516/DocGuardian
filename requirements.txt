@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+PyPDF2
+python-docx
+pandas
+plotly
+faiss-cpu
+sentence-transformers
+protobuf
+huggingface-hub
